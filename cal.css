@@ -1,0 +1,27 @@
+body {
+  display: grid;
+  place-items: center;
+  padding-top: 100px;
+  background-color: #dde1e7;
+}
+
+.con input {
+  width: 80px;
+  height: 50px;
+  background-color: grey;
+}
+
+#ans {
+  width: 163px;
+}
+
+.con {
+  width: 340px;
+  height: 200px;
+
+  padding: 50px;
+  background: #dde1e7;
+  border-radius: 27px;
+  transition: transform 450ms;
+  box-shadow: 3px 3px 5px #ffffff70, 3px 3px 15px #00000070;
+}
